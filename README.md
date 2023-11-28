@@ -1,1 +1,1 @@
-# CISC867_Project
+## Fake News Detection Project
